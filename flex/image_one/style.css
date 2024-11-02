@@ -1,0 +1,20 @@
+.container{
+    display:flex ;
+    flex-direction:column ;
+
+}
+.header{
+    background-color:#99D9EA ;
+    height:200px ;
+    border:2px solid #000 ;
+}
+.content{
+    background-color:#FFFFFF ;
+    height:500px ;
+    border:2px solid #000 ;
+}
+.footer{
+    background-color:#FFAEC9 ;
+    height:100px ;
+    border:2px solid #000 ;
+}
