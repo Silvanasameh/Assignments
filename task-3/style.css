@@ -1,0 +1,93 @@
+
+.bg{background-color:#F5F3FA;
+ height:100vh ;
+}
+.plan-bg{background-color:#fff;
+  margin: 5px;
+  height:560px ;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1), 0 3px 10px 0 rgba(0, 0, 0, 0.1);
+}
+.colour{color:#B6BCC2;}
+.pricing-table {
+    display: flex;
+    justify-content:space-around;
+  }
+  .font{font-size:25px;}
+  .month{color:#9B9FA8;
+  font-size:12px;}
+  .wrong{color:#DF6553 ;}
+  .plan {
+    background-color: #F5F5FB;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    width:280px;
+    margin:10px 10px ;
+    text-align:start ;
+  }
+  .head{
+    display:flex ;
+    justify-content: space-between;
+  }
+  .check{color:#46B19C;}
+  .plan h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .plan p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .plan ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .plan li {
+    margin-bottom: 10px;
+  }
+  
+  .orangebutton {
+    background-color: #E99688;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    width:100%;
+  }
+  .bluebtn {
+    background-color:#4D9CDD;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    width:100%;
+  }
+  .orangebutton:hover{
+    background-color:#D45C48;
+  }
+  .bluebtn:hover {
+    background-color: #0062cc;
+  }
+  .ribbon {
+    width: 85px;
+    height:20px;
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    box-shadow: 0px 2px 3px rgba(136, 136, 136, 0.25);
+    background: #E46246;
+    transform: rotate(45deg);
+    position: absolute;
+    right:370px;
+    padding-top:5px; 
+    top:30px;
+  }
+  
